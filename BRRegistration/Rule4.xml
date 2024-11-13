@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BusinessRule SYSTEM "standardX20.dtd">
+<BusinessRule>
+  <ObjectID><localId>wt.businessRules.BusinessRule:888888</localId></ObjectID>
+  <key>VALIDATE_ATTRIBUTE_SET_RULE</key>
+  <selector>VALIDATE_ATTRIBUTE_SET_RULE</selector>
+  <name>ext.RB.IGBusinessRuleRB:VALIDATE_ATTRIBUTE_SET_RULE_NAME</name>
+	<description>ext.RB.IGBusinessRuleRB:VALIDATE_ATTRIBUTE_SET_RULE_DESC</description>
+	<enabled>true</enabled>
+  <updateIfExists>true</updateIfExists>
+</BusinessRule>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BusinessRuleLink SYSTEM "standardX20.dtd">
+<BusinessRuleLink>
+  <ObjectID><localId>wt.businessRules.BusinessRuleLink:333333</localId></ObjectID>
+  <ruleSet><ObjectReference><localId>wt.businessRules.BusinessRuleSet:222222</localId></ObjectReference></ruleSet>
+  <rule><ObjectReference><localId>wt.businessRules.BusinessRule:111111</localId></ObjectReference></rule>
+  <blockNumber>1</blockNumber>
+  <updateIfExists>true</updateIfExists>
+</BusinessRuleLink>

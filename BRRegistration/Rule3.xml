@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BusinessRule SYSTEM "standardX20.dtd">
+<BusinessRule>
+  <ObjectID><localId>wt.businessRules.BusinessRule:666666</localId></ObjectID>
+  <key>VALIDATE_PROBABILITY_RULE</key>
+  <selector>VALIDATE_PROBABILITY_RULE</selector>
+  <name>ext.RB.IGBusinessRuleRB:VALIDATE_PROBABILITY_RULE_NAME</name>
+	<description>ext.RB.IGBusinessRuleRB:VALIDATE_PROBABILITY_RULE_DESC</description>
+	<enabled>true</enabled>
+  <updateIfExists>true</updateIfExists>
+</BusinessRule>

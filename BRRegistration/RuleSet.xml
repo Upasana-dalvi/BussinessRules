@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BusinessRuleSet SYSTEM "standardX20.dtd">
+<BusinessRuleSet>
+  <ObjectID><localId>wt.businessRules.BusinessRuleSet:222222</localId></ObjectID>
+  <key>PTPL_BUSINESS_RULE_SET2</key>
+  <name>ext.RB.IGBusinessRuleRB:PTPL_BUSINESS_RULES</name>
+	<description>ext.RB.IGBusinessRuleRB:PTPL_BUSINESS_RULES_DESC</description>
+	<enabled>true</enabled>
+  <overridable>true</overridable>
+  <updateIfExists>true</updateIfExists>
+</BusinessRuleSet>

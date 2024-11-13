@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE BusinessRule SYSTEM "standardX20.dtd">
+<BusinessRule>
+  <ObjectID><localId>wt.businessRules.BusinessRule:111111</localId></ObjectID>
+  <key>VALIDATE_STRUCTURE_RULE</key>
+  <selector>VALIDATE_STRUCTURE_RULE</selector>
+  <name>ext.RB.IGBusinessRuleRB:VALIDATE_STRUCTURE_RULE_NAME</name>
+	<description>ext.RB.IGBusinessRuleRB:VALIDATE_STRUCTURE_RULE_DESC</description>
+	<enabled>true</enabled>
+  <updateIfExists>true</updateIfExists>
+</BusinessRule>
